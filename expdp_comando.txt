@@ -1,0 +1,1 @@
+expdp user@servico tables=nometabela dumpfile=arquivo.dmp

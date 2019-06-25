@@ -1,0 +1,1 @@
+scp -i ssh_file usuario@host:/diretorio/arquivo.dmp /diretorio
